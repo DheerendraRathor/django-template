@@ -1,0 +1,2 @@
+-r common.txt
+python-memcached==1.57
