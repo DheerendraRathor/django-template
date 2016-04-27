@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 
 # Application definition
 
-DEFAULT_APPS_DIRECTORY = 'apps'
+DEFAULT_APPS_DIRECTORY = '{{ cookiecutter.apps_directory }}'
 
 INSTALLED_APPS = [
     'django.contrib.admin',
