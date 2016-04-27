@@ -1,8 +1,0 @@
-{
-      "phabricator.uri" : "http://phabricator.bodhitree3.cse.iitb.ac.in",
-      "repository.callsign": "SAFES",
-      "load": [
-          "./.arclib/"
-      ],
-      "unit.engine": "DjangoUnitTestEngine"
-}

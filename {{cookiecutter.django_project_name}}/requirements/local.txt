@@ -1,0 +1,9 @@
+-r common.txt
+django-debug-toolbar==1.4
+pylint==1.5.4
+pep8==1.7.0
+isort==4.2.2
+coverage==4.0.3
+Werkzeug==0.11.4
+django-extensions==1.6.1
+ipython

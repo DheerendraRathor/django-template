@@ -1,0 +1,14 @@
+{
+  "project_name": "A human readable project name",
+  "description": "A short description for Project",
+  "django_project_name": "{{cookiecutter.project_name|replace(' ', '_')}}",
+  "django_version": "1.9.5",
+  "apps_directory": "apps",
+  "core_app_name": "core",
+  "database_host": "localhost",
+  "database_port": "5432",
+  "database_name": "{{cookiecutter.django_project_name}}",
+  "database_user": "{{cookiecutter.django_project_name}}",
+  "database_password": "{{cookiecutter.django_project_name}}",
+  "max_line_length": "79"
+}

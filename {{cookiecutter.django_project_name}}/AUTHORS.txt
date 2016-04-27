@@ -1,0 +1,9 @@
+Here is an inevitably incomplete list of CONTRIBUTORS for {{cookiecutter.project_name}}
+This list include people who added feature, fixed bugs, reported bugs and made this project better.
+
+
+<Please add new entries in alphabetical order>
+
+
+Dheerendra Rathor <dheeru.rathor14@gmail.com>
+Vinay Chandra <vinaychandra.dommeti@gmail.com>
