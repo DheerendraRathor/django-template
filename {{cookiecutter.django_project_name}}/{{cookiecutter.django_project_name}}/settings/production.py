@@ -104,3 +104,5 @@ LOGGING = {
 logging.config.dictConfig(LOGGING)
 
 X_FRAME_OPTIONS = 'DENY'
+
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
